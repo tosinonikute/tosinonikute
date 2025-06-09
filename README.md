@@ -9,6 +9,9 @@ I’m a professional mobile app developer, building high-performance application
   <img align="left" alt="Tosin's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+<br/>
+<br/>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Android](https://developer.android.com/docs), [iOS](https://developer.apple.com/), [Flutter](https://flutter.dev/) and [Compose Multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/)
