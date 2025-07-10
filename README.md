@@ -4,17 +4,6 @@ I’m a professional mobile app developer, building high-performance application
 
 I also work extensively with AI, training models and developing prompting strategies using Python and PyTorch. Beyond building AI solutions, I'm passionate about teaching others the art and science of model training and effective prompting techniques, helping developers unlock the full potential of AI in their projects.
 
-<a href="https://www.linkedin.com/in/tosin-onikute-25653953/">
-  <img align="left" alt="Tosin's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@tosinmath007">
-  <img align="left" alt="Tosin's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<br/>
-<br/>
-</bre>
-
 **Languages and Tools:**  
 
 <code><img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"></code>
