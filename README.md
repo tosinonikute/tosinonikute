@@ -13,15 +13,6 @@ I also work extensively with AI, training models and developing prompting strate
 
 <br/>
 <br/>
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [Android](https://developer.android.com/docs), [iOS](https://developer.apple.com/), [Flutter](https://flutter.dev/) and [Compose Multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/)
-- 🌱 I’m currently learning [C++](https://cppreference.com/)
-- 💬 I'd be happy to help with any questions you have about mobile app development!
-- ⚡ I enjoy contributing to open-source projects and would be glad to get involved!
-- ✍️ Write blogs on [Droidcon](https://www.droidcon.com/author/tosin-onikute/), [Medium](https://medium.com/@tosinmath007)
-
 </bre>
 
 **Languages and Tools:**  
